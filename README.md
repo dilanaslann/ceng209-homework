@@ -16,6 +16,7 @@ save: Save the game.
 load: Load the saved game.
 stats: Shows player health and power information.
 exit: End the game.
+
 Code Descriptions:
 Player Struct: Stores player's health, power and inventory information.
 Room Struct: Contains room descriptions, items and enemies in the room, and transitions between rooms.
